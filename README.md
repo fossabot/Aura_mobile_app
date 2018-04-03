@@ -1,4 +1,3 @@
-
 [![Build Status](https://travis-ci.org/Aura-healthcare/Aura_mobile_app.svg?branch=master)](https://travis-ci.org/Aura-healthcare/Aura_mobile_app)
 [![codecov](https://codecov.io/gh/Aura-healthcare/Aura_mobile_app/branch/master/graph/badge.svg)](https://codecov.io/gh/Aura-healthcare/Aura_mobile_app)
 ## Headline
@@ -30,6 +29,7 @@ iDevicesInc - SweetBlue - support multi Bluetooth connection on most Android pla
 ## App Architecture
 
 ![Scheme](documentation/auramobileapparchitecture-2.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftbrien%2FAura_mobile_app.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftbrien%2FAura_mobile_app?ref=badge_shield)
 
 ## Details
 The "Aura project" mobile application:
@@ -45,3 +45,7 @@ The "Aura project" mobile application:
 cd rootProjectDir/documentation
 doxygen Doxyfile
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftbrien%2FAura_mobile_app.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftbrien%2FAura_mobile_app?ref=badge_large)
